@@ -21,7 +21,7 @@ After Starting Apache and MySQL in XAMPP, follow the following steps.
 4th Step: Open a browser and go to URL “http://localhost/phpmyadmin/”
 5th Step: Then, click on the databases tab
 6th Step: Create a database naming “hms” and then click on the import tab
-7th Step: Click on browse file and select “hotel.sql” file which is inside the “database” folder
+7th Step: Click on browse file and select “hms.sql” file which is inside the “database” folder
 8th Step: Click on go.
 
 After Creating Database,
